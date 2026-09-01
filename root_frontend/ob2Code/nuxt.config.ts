@@ -9,6 +9,14 @@ export default defineNuxtConfig({
     enabled: true
   },
 
+  $production: {
+    // Production-specific configuration
+  },
+
+  $development: {
+    // Production-specific configuration
+  },
+
   css: ['~/assets/css/main.css'],
 
   routeRules: {
@@ -25,4 +33,4 @@ export default defineNuxtConfig({
       }
     }
   }
-})
+});
