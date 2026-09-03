@@ -1,3 +1,0 @@
-<template>
-  {{ "inserire titolo" }}
-</template>
