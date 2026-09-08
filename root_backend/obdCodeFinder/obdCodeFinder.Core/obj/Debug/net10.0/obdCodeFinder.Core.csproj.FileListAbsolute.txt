@@ -1,0 +1,12 @@
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/bin/Debug/net10.0/obdCodeFinder.Core.deps.json
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/bin/Debug/net10.0/obdCodeFinder.Core.dll
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/bin/Debug/net10.0/obdCodeFinder.Core.pdb
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.AssemblyInfoInputs.cache
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.AssemblyInfo.cs
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.csproj.CoreCompileInputs.cache
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.sourcelink.json
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.dll
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/refint/obdCodeFinder.Core.dll
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/obdCodeFinder.Core.pdb
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Core/obj/Debug/net10.0/ref/obdCodeFinder.Core.dll

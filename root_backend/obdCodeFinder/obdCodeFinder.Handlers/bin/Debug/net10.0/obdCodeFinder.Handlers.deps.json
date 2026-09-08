@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "obdCodeFinder.Handlers/1.0.0": {
+        "dependencies": {
+          "obdCodeFinder.Core": "1.0.0"
+        },
+        "runtime": {
+          "obdCodeFinder.Handlers.dll": {}
+        }
+      },
+      "obdCodeFinder.Core/1.0.0": {
+        "runtime": {
+          "obdCodeFinder.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "obdCodeFinder.Handlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "obdCodeFinder.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
