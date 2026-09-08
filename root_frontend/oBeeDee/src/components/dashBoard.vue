@@ -22,8 +22,10 @@
                     <el-col :span="6">
                         <el-card shadow="hover" class="gauge">
                             <template #header>Temperatura liquido</template>
-                            <el-progress type="circle" :percentage="temperaturaPercent" :width="160" :color="temperaturaColor">
-                                <span class="gauge__value">{{ temperaturaLiquido }} <small class="gauge__unit">°C</small></span>
+                            <el-progress type="circle" :percentage="temperaturaPercent" :width="160"
+                                :color="temperaturaColor">
+                                <span class="gauge__value">{{ temperaturaLiquido }} <small
+                                        class="gauge__unit">°C</small></span>
                             </el-progress>
                         </el-card>
                     </el-col>
@@ -31,7 +33,8 @@
                         <el-card shadow="hover" class="gauge">
                             <template #header>Carico motore</template>
                             <el-progress type="circle" :percentage="caricoMotore" :width="160">
-                                <span class="gauge__value">{{ caricoMotore }} <small class="gauge__unit">%</small></span>
+                                <span class="gauge__value">{{ caricoMotore }} <small
+                                        class="gauge__unit">%</small></span>
                             </el-progress>
                         </el-card>
                     </el-col>
