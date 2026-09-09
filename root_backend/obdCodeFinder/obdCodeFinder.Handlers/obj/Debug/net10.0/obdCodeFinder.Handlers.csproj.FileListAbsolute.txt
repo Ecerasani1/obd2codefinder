@@ -47,3 +47,4 @@
 /home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Handlers/bin/Debug/net10.0/Data/Brands/suzuki.json
 /home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Handlers/bin/Debug/net10.0/Data/Brands/toyota.json
 /home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Handlers/bin/Debug/net10.0/Data/Brands/volkswagen.json
+/home/e.cerasani@agricolus.com/ObdCode/obd2codefinder/root_backend/obdCodeFinder/obdCodeFinder.Handlers/bin/Debug/net10.0/Data/pids.json

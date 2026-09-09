@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\obdCodeFinder.Handlers\obdCodeFinder.Handlers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Il parser legge pids.json dalla sua cartella Data nell'output:
+         il demo copia il catalogo accanto a sé, come fa il progetto Handlers. -->
+    <None Update="..\obdCodeFinder.Handlers\Data\**\*.json"
+          Link="Data\%(RecursiveDir)%(Filename)%(Extension)"
+          CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

@@ -2,6 +2,8 @@
   <Folder Name="/obdCodeFinder/">
     <Project Path="obdCodeFinder/obdCodeFinder.Api/obdCodeFinder.Api.csproj" />
     <Project Path="obdCodeFinder/obdCodeFinder.Core/obdCodeFinder.Core.csproj" />
+    <Project Path="obdCodeFinder/obdCodeFinder.Demo/obdCodeFinder.Demo.csproj" />
     <Project Path="obdCodeFinder/obdCodeFinder.Handlers/obdCodeFinder.Handlers.csproj" />
+    <Project Path="obdCodeFinder/obdCodeFinder.Tests/obdCodeFinder.Tests.csproj" />
   </Folder>
 </Solution>

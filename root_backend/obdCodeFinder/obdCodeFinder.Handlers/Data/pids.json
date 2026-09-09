@@ -1,0 +1,86 @@
+[
+  {
+    "pid": "04",
+    "name": "Carico motore",
+    "unit": "%",
+    "category": "Motore",
+    "conversion": "percent"
+  },
+  {
+    "pid": "05",
+    "name": "Temperatura liquido",
+    "unit": "°C",
+    "category": "Motore",
+    "conversion": "minus40"
+  },
+  {
+    "pid": "0B",
+    "name": "Pressione assoluta collettore",
+    "unit": "kPa",
+    "category": "Motore",
+    "conversion": "direct"
+  },
+  {
+    "pid": "0C",
+    "name": "Giri motore",
+    "unit": "RPM",
+    "category": "Motore",
+    "conversion": "rpm"
+  },
+  {
+    "pid": "0D",
+    "name": "Velocità",
+    "unit": "km/h",
+    "category": "Motore",
+    "conversion": "direct"
+  },
+  {
+    "pid": "0F",
+    "name": "Temperatura aria aspirazione",
+    "unit": "°C",
+    "category": "Temperature",
+    "conversion": "minus40"
+  },
+  {
+    "pid": "10",
+    "name": "Flusso aria (MAF)",
+    "unit": "g/s",
+    "category": "Motore",
+    "conversion": "maf"
+  },
+  {
+    "pid": "11",
+    "name": "Posizione farfalla",
+    "unit": "%",
+    "category": "Motore",
+    "conversion": "percent"
+  },
+  {
+    "pid": "2F",
+    "name": "Livello carburante",
+    "unit": "%",
+    "category": "Carburante",
+    "conversion": "percent"
+  },
+  {
+    "pid": "33",
+    "name": "Pressione barometrica",
+    "unit": "kPa",
+    "category": "Motore",
+    "conversion": "direct"
+  },
+  {
+    "pid": "46",
+    "name": "Temperatura ambiente",
+    "unit": "°C",
+    "category": "Temperature",
+    "conversion": "minus40"
+  },
+  {
+    "pid": "5C",
+    "name": "Temperatura olio",
+    "unit": "°C",
+    "category": "Temperature",
+    "conversion": "minus40"
+  }
+]
