@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("obdCodeFinder.Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c4eeb338c176bbe2b08d5db92c52523fc4f8e75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1b50551f1e3cf260fd1361af537abf98958295")]
 [assembly: System.Reflection.AssemblyProductAttribute("obdCodeFinder.Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("obdCodeFinder.Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
